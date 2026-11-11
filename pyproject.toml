@@ -19,6 +19,9 @@ classifiers = [
 ]
 dependencies = []
 
+[project.scripts]
+sarif-merge = "sarif_merge.__main__:main"
+
 [project.urls]
 Homepage = "https://github.com/Trysac/u260-sarif-merge"
 Source = "https://github.com/Trysac/u260-sarif-merge"

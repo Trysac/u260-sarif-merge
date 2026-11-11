@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Added SARIF 2.1.0 merge, deduplication and baseline comparison.
 - Initial project structure from the factory utility template.
