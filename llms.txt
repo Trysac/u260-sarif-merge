@@ -1,0 +1,16 @@
+# sarif-merge
+
+> Merge SARIF 2.1.0 logs from several scanners into one: runs grouped by tool, rules merged with reindexed results, duplicates removed by fingerprint and baseline states marked Python package `trysac-sarif-merge`, import name `sarif_merge`, MIT licensed,
+> Python >= 3.10, no runtime dependencies.
+
+## Docs
+
+- [README](README.md): problem, install, usage example
+- [AGENTS](AGENTS.md): commands, folder map, conventions, limits
+- [Architecture](docs/ARCHITECTURE.md): shape of the package and its public API
+- [Testing](docs/TESTING.md): how to run and extend the tests
+
+## Optional
+
+- [Stack](docs/STACK.md): tools used and discarded
+- [Changelog](CHANGELOG.md): release history
